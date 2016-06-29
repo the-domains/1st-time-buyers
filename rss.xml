@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[1st time buyers]]></title>
+        <description><![CDATA[1st time buyers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 29 Jun 2016 17:23:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BHGHOME]]></title>
+            <description><![CDATA[<article><h1>BHGHOME</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb500ae4-bf29-485e-a505-76f7f11f9ec6.png"></article>]]></description>
+            <link>urn:uuid:68861a02-cee3-42bc-9c46-96607a6892a5</link>
+            <guid isPermaLink="false">65c5df9b-d47f-4524-9cbc-c5c21246b618</guid>
+            <pubDate>Wed, 29 Jun 2016 17:23:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
